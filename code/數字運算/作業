@@ -1,0 +1,10 @@
+while True : 
+    a=int(input('請輸入第一個數字'))
+    b=int(input('請輸入第二個數字'))
+    print('您輸入的數字',a,b)
+    print('相加',a+b)
+    print('相減',a-b)
+    print('相乘',a*b)
+    print('相除',a/b)
+    print('商數',a//b)
+    print('餘數',a%b)

@@ -1,0 +1,13 @@
+a=int
+b=2
+print('相加',a+b)
+print('相減',a-b)
+print('相乘',a*b)
+print('相除',a/b)
+print('商數',a//b)
+print('餘數',a%b)
+print(type(a+b),type(a-b),type(a*b),type(a/b),type(a//b),type(a%b))
+#while True :
+    #print('hello')    
+a=int(input('請輸入一個整數'))
+print('你輸入的數字=',a)
