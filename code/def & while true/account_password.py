@@ -1,4 +1,4 @@
-#帳號密碼
+#帳號密碼(用函式來練習)
 def account_password():
     account=input('請輸入您的帳號')
     if account=='123456789@gmail.com' or account=='987654321@gmail.com':
