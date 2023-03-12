@@ -1,3 +1,4 @@
+#帳號密碼(用if else 判斷帳號密碼是否正確的練習)
 account=input('請輸入您的帳號')
 if account=='123456789@gmail.com':
     password=int(input('請輸入您的密碼'))
