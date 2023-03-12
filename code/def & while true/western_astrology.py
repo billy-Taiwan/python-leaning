@@ -1,3 +1,4 @@
+#星相學
 def western_astrology():
     月份=int(input('請輸入您的出生月份'))
     日期=int(input('請輸入您的出生日期'))
