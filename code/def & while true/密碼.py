@@ -1,3 +1,4 @@
+#密碼
 while True:
     password=(input('請輸入您的密碼'))
     if password==123456789:
