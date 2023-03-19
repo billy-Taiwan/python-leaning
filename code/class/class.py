@@ -1,3 +1,4 @@
+#群組
 class Phone():
     def __init__(self,name,size,price,pixel):
         self.size=size
